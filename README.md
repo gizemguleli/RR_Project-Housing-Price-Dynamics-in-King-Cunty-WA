@@ -49,7 +49,7 @@ In this phase of the project, we will develop and fine-tune machine learning mod
 
 2. **Feature Engineering**: Creating new features or transforming existing ones to improve model performance.
 
-3. **Model Selection**: We will experiment with various regression algorithms such as Linear Regression, Random Forest Regression, and Gradient Boosting Regression.
+3. **Model Selection**: We will experiment with various regression algorithms such as Regression Trees , and Gradient Boosting Regression.
 
 4. **Model Evaluation**: Using appropriate evaluation metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared to assess model performance.
 
