@@ -3,7 +3,9 @@ Enhancing reproducible research from Data Exploration to Advanced Analysis
 
 ## Project Summary
 
-This project uses advanced data visualization techniques in Python to analyze house prices in King County, Washington. The dataset, obtained from Kaggle, provides 21,613 observations of 21 distinct variables over one year (May 2014 - May 2015). Link to the data: https://www.kaggle.com/datasets/shivachandel/kc-house-data/data
+This project we are using advanced data visualization techniques and machine learning modeling  in Python to analyze house prices in King County, Washington. 
+The dataset, obtained from Kaggle, provides 21,613 observations of 21 distinct variables over one year (May 2014 - May 2015).
+ Link to the data: https://www.kaggle.com/datasets/shivachandel/kc-house-data/data
 
 Objectives
 
