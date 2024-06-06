@@ -26,6 +26,9 @@ The dataset consists of both numerical and categorical variables, covering vario
 - **Python version**: 3.8+
 - **Required packages**: pandas, matplotlib, seaborn, numpy, scipy, geopandas.
 - This project was done using a Jupyter notebook, we recommend following the analysis with the file in this repository _V1.ipynb_ as it contains more details and conclusions of the project. The following sections will describe briefly what was done. If you are interested in further details, the code, and/or replicating our analysis, please follow the _V1.ipynb_ file.
+- **Jupyter Notebook**: This project was conducted using a Jupyter notebook. We recommend following the analysis with the file in this repository named _V1.ipynb_. This notebook contains detailed explanations, code, and conclusions of the project.
+- **Usage**: To replicate our analysis or further explore the dataset, simply open the _V1.ipynb_ file in a Jupyter Notebook environment and execute the cells sequentially. This notebook contains step-by-step instructions and code comments to guide you through the analysis process.
+
 
 ## Exploratory Data Analysis (EDA)
 
