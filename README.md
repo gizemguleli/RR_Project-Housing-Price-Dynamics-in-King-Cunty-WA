@@ -34,13 +34,28 @@ Advanced Visualization Techniques
 
 Our project uses scatter plot matrices, interactive visualizations, and custom plots to delve deeper into the data.
 
-## Geospatial Visualization
+## Advanced Visualization Techniques
 
-Given that our dataset provides geographical coordinates, we will create maps to visualize the spatial distribution of house prices within King County and Seattle. The idea is to identify regional patterns and hotspots of high-value properties.
+Scatter plot matrices, interactive visualizations, and custom plots are utilized to gain deeper insights into the data.
 
 ## Machine Learning Modeling
 
-TBD...
+In this phase of the project, we will develop and fine-tune machine learning models to predict house prices in King County, WA. This section will include the following steps:
+
+1. **Data Preprocessing**: We will handle missing values, encode categorical variables, and scale numerical features as necessary.
+
+2. **Feature Engineering**: Creating new features or transforming existing ones to improve model performance.
+
+3. **Model Selection**: We will experiment with various regression algorithms such as Linear Regression, Random Forest Regression, and Gradient Boosting Regression.
+
+4. **Model Evaluation**: Using appropriate evaluation metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared to assess model performance.
+
+5. **Hyperparameter Tuning**: Fine-tuning the chosen model(s) to optimize performance.
+
+6. **Prediction**: Making predictions on the test dataset and evaluating the model's performance on unseen data.
+
+The detailed implementation and results of each step will be documented in the Jupyter notebook _V1.ipynb_ for further reference and reproducibility.
+
 
 ## Conclusion
 
