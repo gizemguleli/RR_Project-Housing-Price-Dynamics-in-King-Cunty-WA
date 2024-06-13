@@ -65,3 +65,5 @@ The detailed implementation and results of each step will be documented in the J
 ## Conclusion
 
 Overall, through advanced visualization techniques, this project aims to deliver valuable insights into the factors influencing house sales in King County, Washington. The blend of exploratory data analysis with visual representations will pave the way toward a comprehensive understanding of regional housing market dynamics.
+
+*Note: ChatGPT is used especially to generate the reporting for this project.*
